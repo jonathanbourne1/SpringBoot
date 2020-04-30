@@ -1,0 +1,10 @@
+Eureka/HELP.md
+Eureka/target/
+!Eureka/.mvn/wrapper/maven-wrapper.jar
+!Eureka/**/src/main/**
+!Eureka/**/src/test/**
+### IntelliJ IDEA ###
+Eureka/.idea
+Eureka/*.iws
+Eureka/*.iml
+Eureka/*.ipr
